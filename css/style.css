@@ -1,0 +1,58 @@
+h1 {
+	color: black;
+}
+span {
+	color: lightcoral;
+}
+ol {
+	color: darkcyan;
+}
+.header__content {
+	color: brown;
+}
+.menu a {
+	color: forestgreen;
+}
+.header__place a {
+	color: orange;
+}
+h2 {
+	color: chocolate;
+}
+.fanyfacts__content span {
+	color: gold;
+}
+h4 {
+	color: indigo;
+}
+h5 {
+	color: darkgreen;
+}
+p {
+	color: black;
+}
+
+.fanyfacts__content p {
+	color: grey;
+}
+.blackhole__content h4 {
+	color: lightseagreen;
+}
+[class*="-text"] {
+	color: burlywood;
+}
+.blackhole__content span {
+	color: cadetblue;
+}
+.dream__content li {
+	color: darkred;
+}
+.dream__content p {
+	color: darksalmon;
+}
+.dream__content a {
+	color: red;
+}
+.footer__text.permision {
+	color: tomato;
+}
